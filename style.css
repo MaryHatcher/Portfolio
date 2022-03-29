@@ -80,7 +80,7 @@ li {
 }
 .point:hover{
     cursor:pointer;
-    letter-spacing: 1px; 
+    letter-spacing:1px; 
 }
 .point{
     transition: all .5s ease; 
